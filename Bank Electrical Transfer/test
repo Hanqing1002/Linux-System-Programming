@@ -1,0 +1,40 @@
+1 1000
+2 50
+3 400
+4 150
+5 1000
+6 50
+7 400
+8 150
+9 1000
+10 50
+11 400
+12 150
+13 1000
+14 50
+15 400
+16 150
+17 1000
+18 50
+19 400
+20 150
+Transfer 1 2 200
+Transfer 1 4 50
+Transfer 2 3 100
+Transfer 4 3 150
+Transfer 5 6 200
+Transfer 5 8 50
+Transfer 6 7 100
+Transfer 8 7 150
+Transfer 9 10 200
+Transfer 9 12 50
+Transfer 10 11 100
+Transfer 12 11 150
+Transfer 13 14 200
+Transfer 13 16 50
+Transfer 14 15 100
+Transfer 16 15 150
+Transfer 17 18 200
+Transfer 17 20 50
+Transfer 18 19 100
+Transfer 20 19 150
